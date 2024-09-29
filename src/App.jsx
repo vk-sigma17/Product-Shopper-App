@@ -1,6 +1,7 @@
 import React from 'react'
 import ProductList from './components/ProductList'
 
+//LIMITATIONS
 //1.Currently, error handling is minimal. If an API call fails, the app displays a simple error message.
 //2.No detailed loading indicators
 //3.search is case-insensitive, but it may not handle special characters or whitespace effectively
